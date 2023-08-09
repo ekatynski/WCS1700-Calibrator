@@ -478,7 +478,7 @@
       "step": "WCS1700_Calibrator.step",
       "vrml": ""
     },
-    "page_layout_descr_file": "Default_Soaring.kicad_wks"
+    "page_layout_descr_file": ""
   },
   "schematic": {
     "annotate_start_num": 0,
