@@ -1,0 +1,2857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/ed/Documents/KiCad/Work Projects/WCS1700-Calibrator/WCS1700_Calibrator.kicad_sch</source>
+    <date>Tue 08 Aug 2023 10:41:28 PM PDT</date>
+    <tool>Eeschema 7.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>WCS1700 Calibrator</title>
+        <company/>
+        <rev>2.0</rev>
+        <date>2023-08-08</date>
+        <source>WCS1700_Calibrator.kicad_sch</source>
+        <comment number="1" value="Ed Katynski"/>
+        <comment number="2" value="(PENDING REVIEW)"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Hall Effect Sensor Arrangement/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/">
+      <title_block>
+        <title>WCS1700 Calibrator</title>
+        <company/>
+        <rev>2.0</rev>
+        <date>2023-08-08</date>
+        <source>HEf_Arrangement.kicad_sch</source>
+        <comment number="1" value="Ed Katynski"/>
+        <comment number="2" value="(PENDING REVIEW)"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Hall Effect Sensor Arrangement/Hall Effect Sensor 2/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a7d68ba5-ff59-4374-8f5b-26dd8a57940c/">
+      <title_block>
+        <title>WCS1700 Calibrator</title>
+        <company/>
+        <rev>2.0</rev>
+        <date>2023-08-08</date>
+        <source>HEF Sensor.kicad_sch</source>
+        <comment number="1" value="Ed Katynski"/>
+        <comment number="2" value="(PENDING REVIEW)"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Hall Effect Sensor Arrangement/Hall Effect Sensor 1/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/c2040358-6328-4a0d-a47e-c7731cd566aa/">
+      <title_block>
+        <title>WCS1700 Calibrator</title>
+        <company/>
+        <rev>2.0</rev>
+        <date>2023-08-08</date>
+        <source>HEF Sensor.kicad_sch</source>
+        <comment number="1" value="Ed Katynski"/>
+        <comment number="2" value="(PENDING REVIEW)"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Hall Effect Sensor Arrangement/Hall Effect Sensor 5/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/5c689594-d0df-4377-907d-4138d9de2741/">
+      <title_block>
+        <title>WCS1700 Calibrator</title>
+        <company/>
+        <rev>2.0</rev>
+        <date>2023-08-08</date>
+        <source>HEF Sensor.kicad_sch</source>
+        <comment number="1" value="Ed Katynski"/>
+        <comment number="2" value="(PENDING REVIEW)"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Hall Effect Sensor Arrangement/Hall Effect Sensor 3/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a47f27bc-bdae-46b2-ae21-4f1d43650ae7/">
+      <title_block>
+        <title>WCS1700 Calibrator</title>
+        <company/>
+        <rev>2.0</rev>
+        <date>2023-08-08</date>
+        <source>HEF Sensor.kicad_sch</source>
+        <comment number="1" value="Ed Katynski"/>
+        <comment number="2" value="(PENDING REVIEW)"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Hall Effect Sensor Arrangement/Hall Effect Sensor 6/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/ce934ce5-68bd-4af2-989d-02ef914e6177/">
+      <title_block>
+        <title>WCS1700 Calibrator</title>
+        <company/>
+        <rev>2.0</rev>
+        <date>2023-08-08</date>
+        <source>HEF Sensor.kicad_sch</source>
+        <comment number="1" value="Ed Katynski"/>
+        <comment number="2" value="(PENDING REVIEW)"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Hall Effect Sensor Arrangement/Hall Effect Sensor 4/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/6a6b67fe-7796-4022-8fb5-a4a7daec34a6/">
+      <title_block>
+        <title>WCS1700 Calibrator</title>
+        <company/>
+        <rev>2.0</rev>
+        <date>2023-08-08</date>
+        <source>HEF Sensor.kicad_sch</source>
+        <comment number="1" value="Ed Katynski"/>
+        <comment number="2" value="(PENDING REVIEW)"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/Revision Notes/" tstamps="/f5210f0b-3a2b-4e51-8449-a607f4b7dd41/">
+      <title_block>
+        <title>WCS1700 Calibrator</title>
+        <company/>
+        <rev>2.0</rev>
+        <date>2023-08-08</date>
+        <source>revnotes.kicad_sch</source>
+        <comment number="1" value="Ed Katynski"/>
+        <comment number="2" value="(PENDING REVIEW)"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c862353-14d1-472f-948f-9ddd944126d5</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6b228ee-571e-4801-bf8a-8aef9fd802a8</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26f6450c-6f8b-4ad7-af71-3b39ade38296</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3666d631-ebc0-4b1e-974c-63464bcc6ef9</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4839a16a-f789-4dec-87d8-ee6094d0118a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.01uF 10V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad9eada6-041e-4a81-bf05-e037aa769d5b</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF 10V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc90cf8f-f52f-47fc-828c-e209ef8a70a9</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ecde3ff-9c0c-4771-9659-b1660ab5166b</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c811cb9d-fddc-4397-bced-f6615488d1b1</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ff469f9-6f1d-4214-abd4-cc274bba3896</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88087180-26bb-4cda-af4f-b125b4770302</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08b1d013-93da-4267-8da8-b0d58777e3e8</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6db6d245-c2bf-48fe-a551-19feadd48549</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>150060VS75000</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.we-online.com/components/products/datasheet/150060VS75000.pdf</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa860f51-64fb-49ab-81c8-89f9c158b4fe</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>B0520LW-7-F</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/B0520LW.pdf</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Schottky diode"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7acb8adc-071c-4489-8751-c903ba7d7eaf</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>150060VS75000</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.we-online.com/components/products/datasheet/150060VS75000.pdf</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cf34f9f-1d1a-4148-896a-226adca269df</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>150060VS75000</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.we-online.com/components/products/datasheet/150060VS75000.pdf</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d7a4bce-339b-421f-bf19-50f2ffec848f</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_4mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71077c07-5a4b-47af-959c-474deae5dcbd</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_4mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2925ce9-dcec-4364-b311-1ec739f876a2</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_4mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b501e269-782a-488f-89c2-5d78968cf1d7</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_4mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd39ea33-56e4-488c-9bea-ab82b48c5462</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>PJ-002B</value>
+      <footprint>Connector_BarrelJack:BarrelJack_Horizontal</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/pj-002b.pdf</datasheet>
+      <libsource lib="Connector" part="Barrel_Jack_Switch" description="DC Barrel Jack with an internal switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="DC Barrel Jack with an internal switch"/>
+      <property name="ki_keywords" value="DC power barrel jack connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f87a6228-4e46-4a1d-b9a3-f34434cb464f</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>560020-0330</value>
+      <footprint>connector:CONN_560020-0330_MOL</footprint>
+      <datasheet>https://tools.molex.com/pdm_docs/sd/5600200330_sd.pdf</datasheet>
+      <libsource lib="Connector_Generic_MountingPin" part="Conn_01x03_MountingPin" description="Generic connectable mounting pin connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Generic connectable mounting pin connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a726840a-893c-47c0-b82d-c085ddafdee7</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>282834-8</value>
+      <footprint>TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-8_1x08_P2.54mm_Horizontal</footprint>
+      <datasheet>https://www.te.com/usa-en/product-282834-8.datasheet.pdf</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x08" description="Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ae49859-8df2-45de-bfd3-21d1a79bb8f0</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x03_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62b671ae-bd49-4a45-9ed1-f6df59774209</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>282834-6</value>
+      <footprint>TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-6_1x06_P2.54mm_Horizontal</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/418/7/ENG_CD_282834_C1-2036206.pdf</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x06" description="Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c006aec5-dc50-4409-baa2-4f83b62ffebc</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>Jumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>751d4ef6-61e7-402c-8381-5bdcdacaca6d</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>Jumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b703a9c-5ffd-4590-9600-c8b30768ea21</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>Jumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be1393bb-e360-4acf-9b32-dba8de8a14f2</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>AO3422</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="AO3400A" description="30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"/>
+      <property name="ki_keywords" value="N-Channel MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a418004a-16b0-4bb3-bb14-751136c6b3e7</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>AO3422</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="AO3400A" description="30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"/>
+      <property name="ki_keywords" value="N-Channel MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f6b309d-1cbf-4a06-a956-d1e89e119035</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>AO3422</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="AO3400A" description="30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"/>
+      <property name="ki_keywords" value="N-Channel MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdd89bd0-806a-4a8a-8ff2-1af035075701</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>AO3422</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="AO3400A" description="30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"/>
+      <property name="ki_keywords" value="N-Channel MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66a69458-a15f-4bd5-b8e8-81a4e930bcf6</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>AO3422</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="AO3400A" description="30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"/>
+      <property name="ki_keywords" value="N-Channel MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fd84dde-cb3c-4a67-917c-58f6d287515c</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d751e32-04e7-4da3-b8c3-4e7bd023b239</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a7fc301-3650-4863-9bba-4916d7bb8086</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>2.2K 0.1%</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4920c4b-1e3f-4f75-82a6-8de15e46f372</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>2.2K 0.1%</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>420328cd-6f1f-46ca-ac28-cddc7e013a52</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>2.2K 0.1%</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8311147d-6158-487a-a2a5-4de1c0803e39</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>2.2K 0.1%</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fc7e3e7-08d9-4c49-9e9c-ed7b2ad2115a</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47817762-19f7-4fce-bd31-2f8bb2613b49</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>691d8b77-21a6-4e7d-8c15-05a2c72db2b4</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00013e94-2282-4c11-8cfc-ae4c66ec953c</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>500R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e423c879-614d-4857-9bb1-41ed0e5f8ad4</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>500R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64a0faf8-3d47-4291-9fd9-9b24a45ad991</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>500R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d78da5a-7aac-407d-a9f1-b4b32bfcca3d</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>500R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f30e7f7-62c6-4030-962a-9d1242a514cf</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e82a7e3-4180-4f4c-92a4-2daea07f615d</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fe94179-379f-451a-8f31-373cacb433ba</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07d72487-776b-4e61-91b8-ddfe2039ec3c</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c72f6629-d30c-478d-8fd7-b05c7e9b3031</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99c1400a-7ab7-435a-a022-9a64a3a81590</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76887237-796e-495f-b43a-4d29a0f80f5e</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a2c48ab-58f9-43ca-b917-ddc619d1e091</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1f5ac0d-08da-49f0-9588-8515a0de5bd0</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>500R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4d8ddd0-0d96-46e7-ade6-ed1a40a35691</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>500R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31ee2cc7-7afd-4812-a8a3-784c4e56e3ca</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>500R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a1348b8-1fa3-40ae-bfbe-885f9a9c3cec</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="dnp"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc980eae-ca67-4eca-9178-ce6a4afb25ff</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>‎1825910-6‎</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H8mm</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electronic%20Components/ESE-20C,D.pdf</datasheet>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b01dabc-a4a3-4a45-82a6-55048747f6fe</tstamps>
+    </comp>
+    <comp ref="TH1">
+      <value>0ZCJ0050AF2E</value>
+      <footprint>Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zcj-series.pdf</datasheet>
+      <libsource lib="Device" part="Thermistor_PTC_US" description="Temperature dependent resistor, positive temperature coefficient, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Temperature dependent resistor, positive temperature coefficient, US symbol"/>
+      <property name="ki_keywords" value="resistor PTC thermistor sensor RTD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7de87b98-d6c8-42ad-b319-a0a0076a01a6</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MAX6107</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://datasheets.maximintegrated.com/en/ds/MAX6100-MAX6107.pdf</datasheet>
+      <libsource lib="Reference_Voltage" part="MAX6107" description="Low-dropout high current voltage reference, 4.500V, ±0.4% accuracy, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Low-dropout high current voltage reference, 4.500V, ±0.4% accuracy, SOT-23"/>
+      <property name="ki_keywords" value="voltage reference ldo"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee50db71-5732-47d8-ae50-24d2a3563b5d</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MAX6107</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://datasheets.maximintegrated.com/en/ds/MAX6100-MAX6107.pdf</datasheet>
+      <libsource lib="Reference_Voltage" part="MAX6107" description="Low-dropout high current voltage reference, 4.500V, ±0.4% accuracy, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Low-dropout high current voltage reference, 4.500V, ±0.4% accuracy, SOT-23"/>
+      <property name="ki_keywords" value="voltage reference ldo"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7fc7f94-7425-4d13-b4a8-84fc7b85912a</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LT1962EMS8-5#TRPBF</value>
+      <footprint>Package_SO:MSOP-8_3x3mm_P0.65mm</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/1962fb.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="LT1962-5" description="5.0V, 300mA, Low Noise, Micropower LDO Regulator, MSOP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="5.0V, 300mA, Low Noise, Micropower LDO Regulator, MSOP-8"/>
+      <property name="ki_keywords" value="LDO 5V"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b86e3e8e-ebc5-4a72-9756-0e078cd208f5</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MCP3208</value>
+      <footprint>Package_SO:SOIC-16_3.9x9.9mm_P1.27mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/21298c.pdf</datasheet>
+      <libsource lib="" part="MCP3208_1" description="A/D Converter, 12-Bit, 8-Channel, SPI Interface , 2.7V-5.5V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="A/D Converter, 12-Bit, 8-Channel, SPI Interface , 2.7V-5.5V"/>
+      <property name="ki_keywords" value="12bit ADC Reference Single Supply SPI 8ch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>791bccfa-fc92-4e7e-a7e2-549dfb1f40b1</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>MCP3208</value>
+      <footprint>Package_SO:SOIC-16_3.9x9.9mm_P1.27mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/21298c.pdf</datasheet>
+      <libsource lib="" part="MCP3208_1" description="A/D Converter, 12-Bit, 8-Channel, SPI Interface , 2.7V-5.5V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="A/D Converter, 12-Bit, 8-Channel, SPI Interface , 2.7V-5.5V"/>
+      <property name="ki_keywords" value="12bit ADC Reference Single Supply SPI 8ch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6dc2bd77-b32c-453e-b631-d5794cdd1be7</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>TXB0106PW</value>
+      <footprint>Package_SO:TSSOP-16_4.4x5mm_P0.65mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/txb0106.pdf</datasheet>
+      <libsource lib="level_shift" part="TXB0106PW" description="4-Bit Bidirectional Voltage-Level Translator, Auto Direction Sensing and ±15-kV ESD Protection, 1.2 - 3.6V APort, 1.65 - 5.5V BPort, TSSOP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="4-Bit Bidirectional Voltage-Level Translator, Auto Direction Sensing and ±15-kV ESD Protection, 1.2 - 3.6V APort, 1.65 - 5.5V BPort, TSSOP-14"/>
+      <property name="ki_keywords" value="Level-Shifter CMOS-TTL-Translation"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84f8a9b1-7a9c-404d-9838-6d44b5d3cab5</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>TLP241A(TP1,F</value>
+      <footprint>OptoDevice:OnSemi_CASE100CY</footprint>
+      <datasheet>https://toshiba.semicon-storage.com/info/TLP241A_datasheet_en_20200217.pdf?did=14237&amp;prodName=TLP241A</datasheet>
+      <libsource lib="Relay_SolidState" part="TLP222A" description="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4"/>
+      <property name="ki_keywords" value="MOSFET Output Photorelay 1-Form-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44f34e72-72bf-4024-92bf-953e861568f8</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>TLP241A(TP1,F</value>
+      <footprint>OptoDevice:OnSemi_CASE100CY</footprint>
+      <datasheet>https://toshiba.semicon-storage.com/info/TLP241A_datasheet_en_20200217.pdf?did=14237&amp;prodName=TLP241A</datasheet>
+      <libsource lib="Relay_SolidState" part="TLP222A" description="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4"/>
+      <property name="ki_keywords" value="MOSFET Output Photorelay 1-Form-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4abbeec-aee4-41ab-b816-fed967ff65ce</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>TLP241A(TP1,F</value>
+      <footprint>OptoDevice:OnSemi_CASE100CY</footprint>
+      <datasheet>https://toshiba.semicon-storage.com/info/TLP241A_datasheet_en_20200217.pdf?did=14237&amp;prodName=TLP241A</datasheet>
+      <libsource lib="Relay_SolidState" part="TLP222A" description="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4"/>
+      <property name="ki_keywords" value="MOSFET Output Photorelay 1-Form-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad8dc110-317b-422d-a8de-24fc925ed4de</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>TLP241A(TP1,F</value>
+      <footprint>OptoDevice:OnSemi_CASE100CY</footprint>
+      <datasheet>https://toshiba.semicon-storage.com/info/TLP241A_datasheet_en_20200217.pdf?did=14237&amp;prodName=TLP241A</datasheet>
+      <libsource lib="Relay_SolidState" part="TLP222A" description="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4"/>
+      <property name="ki_keywords" value="MOSFET Output Photorelay 1-Form-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d94501a-22db-4772-b130-6c330ad12120</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>SN74AUC2G08DCUR</value>
+      <footprint>Package_SO:VSSOP-8_2.3x2mm_P0.5mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn74auc2g08.pdf</datasheet>
+      <libsource lib="74xGxx" part="74AUC2G08" description="Dual AND Gate, Low-Voltage CMOS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Dual AND Gate, Low-Voltage CMOS"/>
+      <property name="ki_keywords" value="Dual Gate AND LVC CMOS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72f929b5-665a-4cca-aa53-ed1a8c05676b e2cda076-fffb-447c-8203-c30b1c29e081 6e50c5d5-0435-4dd7-b13f-611261514e94</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>74LVC2G240DC,125</value>
+      <footprint>Package_SO:VSSOP-8_2.3x2mm_P0.5mm</footprint>
+      <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <libsource lib="74xGxx" part="74LVC2G240" description="Dual Inverter Buffer Tri-State, Low-Voltage CMOS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="Dual Inverter Buffer Tri-State, Low-Voltage CMOS"/>
+      <property name="ki_keywords" value="Dual Inv Buff Tri-State LVC CMOS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87f535db-cef7-4e46-8328-bf9dc56a9218 20f6eda8-6743-4dca-9b00-5c0bf50e9dd0 0f46c19f-8485-40a6-9504-5f1139d244b2</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>Teensy4.1</value>
+      <footprint>teensy:Teensy41</footprint>
+      <libsource lib="teensy" part="Teensy4.1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>941ebaf1-c140-4878-a825-5e046f575caf</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>TLP241A(TP1,F</value>
+      <footprint>OptoDevice:OnSemi_CASE100CY</footprint>
+      <datasheet>https://toshiba.semicon-storage.com/info/TLP241A_datasheet_en_20200217.pdf?did=14237&amp;prodName=TLP241A</datasheet>
+      <libsource lib="Relay_SolidState" part="TLP222A" description="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4"/>
+      <property name="ki_keywords" value="MOSFET Output Photorelay 1-Form-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18b8a8ed-c8a1-45fd-8231-8c123167fffb</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>TLP241A(TP1,F</value>
+      <footprint>OptoDevice:OnSemi_CASE100CY</footprint>
+      <datasheet>https://toshiba.semicon-storage.com/info/TLP241A_datasheet_en_20200217.pdf?did=14237&amp;prodName=TLP241A</datasheet>
+      <libsource lib="Relay_SolidState" part="TLP222A" description="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4"/>
+      <property name="ki_keywords" value="MOSFET Output Photorelay 1-Form-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0da80432-6f40-4fcb-89b3-abdc5f77e4d1</tstamps>
+    </comp>
+    <comp ref="U16">
+      <value>TLP241A(TP1,F</value>
+      <footprint>OptoDevice:OnSemi_CASE100CY</footprint>
+      <datasheet>https://toshiba.semicon-storage.com/info/TLP241A_datasheet_en_20200217.pdf?did=14237&amp;prodName=TLP241A</datasheet>
+      <libsource lib="Relay_SolidState" part="TLP222A" description="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WCS1700_Calibrator.kicad_sch"/>
+      <property name="ki_description" value="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4"/>
+      <property name="ki_keywords" value="MOSFET Output Photorelay 1-Form-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a2c4353-3ee7-4fa9-8370-0057ef788be1</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Hall Effect Sensor 2"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 2/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a7d68ba5-ff59-4374-8f5b-26dd8a57940c/"/>
+      <tstamps>b5e218db-ec3b-4a8e-ab77-586be976ba22</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Hall Effect Sensor 2"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 2/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a7d68ba5-ff59-4374-8f5b-26dd8a57940c/"/>
+      <tstamps>f28669c4-8b7e-4116-8d59-3362ca7ab4b2</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Hall Effect Sensor 2"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 2/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a7d68ba5-ff59-4374-8f5b-26dd8a57940c/"/>
+      <tstamps>b4e7e7cf-3bb7-437f-8999-e06b9af0112e</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x03_Socket</value>
+      <footprint>Connector_PinSocket_1.27mm:PinSocket_1x03_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Socket" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value="Hall Effect Sensor 2"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 2/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a7d68ba5-ff59-4374-8f5b-26dd8a57940c/"/>
+      <tstamps>e1ab0c6f-f0ef-4fc4-8ca6-522bd4e43dd1</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="Hall Effect Sensor 2"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 2/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a7d68ba5-ff59-4374-8f5b-26dd8a57940c/"/>
+      <tstamps>76707a5b-3495-4b43-8785-c9f59b32d50e</tstamps>
+    </comp>
+    <comp ref="U17">
+      <value>WCS1700</value>
+      <footprint>Sensor_Hall_Effect:WCS1700</footprint>
+      <datasheet>http://www.winson.com.tw/uploads/images/WCS1700.pdf</datasheet>
+      <fields>
+        <field name="Application Note">http://www.winson.com.tw/uploads/images/WCS%20Application%20note.pdf</field>
+      </fields>
+      <libsource lib="Sensor_Hall_Effect" part="WCS1700" description="Hall effect sensor by Winson"/>
+      <property name="Application Note" value="http://www.winson.com.tw/uploads/images/WCS%20Application%20note.pdf"/>
+      <property name="Sheetname" value="Hall Effect Sensor 2"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Hall effect sensor by Winson"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 2/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a7d68ba5-ff59-4374-8f5b-26dd8a57940c/"/>
+      <tstamps>1275936f-4b18-4323-a85c-2a50ab8fafcf</tstamps>
+    </comp>
+    <comp ref="U18">
+      <value>ADR02AUJZ</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5_HandSoldering</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADR01_02_03_06.pdf</datasheet>
+      <libsource lib="v_ref" part="ADR02AUJZ" description="Series Voltage Reference IC Fixed 5V V ±0.1% 10 mA TSOT-23-5"/>
+      <property name="Sheetname" value="Hall Effect Sensor 2"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Series Voltage Reference IC Fixed 5V V ±0.1% 10 mA TSOT-23-5"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 2/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a7d68ba5-ff59-4374-8f5b-26dd8a57940c/"/>
+      <tstamps>0cc28d5f-ce4d-4f63-b047-2714a11754df</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Hall Effect Sensor 1"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 1/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/c2040358-6328-4a0d-a47e-c7731cd566aa/"/>
+      <tstamps>b5e218db-ec3b-4a8e-ab77-586be976ba22</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Hall Effect Sensor 1"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 1/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/c2040358-6328-4a0d-a47e-c7731cd566aa/"/>
+      <tstamps>f28669c4-8b7e-4116-8d59-3362ca7ab4b2</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Hall Effect Sensor 1"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 1/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/c2040358-6328-4a0d-a47e-c7731cd566aa/"/>
+      <tstamps>b4e7e7cf-3bb7-437f-8999-e06b9af0112e</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x03_Socket</value>
+      <footprint>Connector_PinSocket_1.27mm:PinSocket_1x03_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Socket" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value="Hall Effect Sensor 1"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 1/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/c2040358-6328-4a0d-a47e-c7731cd566aa/"/>
+      <tstamps>e1ab0c6f-f0ef-4fc4-8ca6-522bd4e43dd1</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="Hall Effect Sensor 1"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 1/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/c2040358-6328-4a0d-a47e-c7731cd566aa/"/>
+      <tstamps>76707a5b-3495-4b43-8785-c9f59b32d50e</tstamps>
+    </comp>
+    <comp ref="U19">
+      <value>WCS1700</value>
+      <footprint>Sensor_Hall_Effect:WCS1700</footprint>
+      <datasheet>http://www.winson.com.tw/uploads/images/WCS1700.pdf</datasheet>
+      <fields>
+        <field name="Application Note">http://www.winson.com.tw/uploads/images/WCS%20Application%20note.pdf</field>
+      </fields>
+      <libsource lib="Sensor_Hall_Effect" part="WCS1700" description="Hall effect sensor by Winson"/>
+      <property name="Application Note" value="http://www.winson.com.tw/uploads/images/WCS%20Application%20note.pdf"/>
+      <property name="Sheetname" value="Hall Effect Sensor 1"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Hall effect sensor by Winson"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 1/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/c2040358-6328-4a0d-a47e-c7731cd566aa/"/>
+      <tstamps>1275936f-4b18-4323-a85c-2a50ab8fafcf</tstamps>
+    </comp>
+    <comp ref="U20">
+      <value>ADR02AUJZ</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5_HandSoldering</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADR01_02_03_06.pdf</datasheet>
+      <libsource lib="v_ref" part="ADR02AUJZ" description="Series Voltage Reference IC Fixed 5V V ±0.1% 10 mA TSOT-23-5"/>
+      <property name="Sheetname" value="Hall Effect Sensor 1"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Series Voltage Reference IC Fixed 5V V ±0.1% 10 mA TSOT-23-5"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 1/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/c2040358-6328-4a0d-a47e-c7731cd566aa/"/>
+      <tstamps>0cc28d5f-ce4d-4f63-b047-2714a11754df</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Hall Effect Sensor 5"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 5/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/5c689594-d0df-4377-907d-4138d9de2741/"/>
+      <tstamps>b5e218db-ec3b-4a8e-ab77-586be976ba22</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Hall Effect Sensor 5"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 5/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/5c689594-d0df-4377-907d-4138d9de2741/"/>
+      <tstamps>f28669c4-8b7e-4116-8d59-3362ca7ab4b2</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Hall Effect Sensor 5"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 5/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/5c689594-d0df-4377-907d-4138d9de2741/"/>
+      <tstamps>b4e7e7cf-3bb7-437f-8999-e06b9af0112e</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x03_Socket</value>
+      <footprint>Connector_PinSocket_1.27mm:PinSocket_1x03_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Socket" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value="Hall Effect Sensor 5"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 5/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/5c689594-d0df-4377-907d-4138d9de2741/"/>
+      <tstamps>e1ab0c6f-f0ef-4fc4-8ca6-522bd4e43dd1</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="Hall Effect Sensor 5"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 5/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/5c689594-d0df-4377-907d-4138d9de2741/"/>
+      <tstamps>76707a5b-3495-4b43-8785-c9f59b32d50e</tstamps>
+    </comp>
+    <comp ref="U21">
+      <value>WCS1700</value>
+      <footprint>Sensor_Hall_Effect:WCS1700</footprint>
+      <datasheet>http://www.winson.com.tw/uploads/images/WCS1700.pdf</datasheet>
+      <fields>
+        <field name="Application Note">http://www.winson.com.tw/uploads/images/WCS%20Application%20note.pdf</field>
+      </fields>
+      <libsource lib="Sensor_Hall_Effect" part="WCS1700" description="Hall effect sensor by Winson"/>
+      <property name="Application Note" value="http://www.winson.com.tw/uploads/images/WCS%20Application%20note.pdf"/>
+      <property name="Sheetname" value="Hall Effect Sensor 5"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Hall effect sensor by Winson"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 5/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/5c689594-d0df-4377-907d-4138d9de2741/"/>
+      <tstamps>1275936f-4b18-4323-a85c-2a50ab8fafcf</tstamps>
+    </comp>
+    <comp ref="U22">
+      <value>ADR02AUJZ</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5_HandSoldering</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADR01_02_03_06.pdf</datasheet>
+      <libsource lib="v_ref" part="ADR02AUJZ" description="Series Voltage Reference IC Fixed 5V V ±0.1% 10 mA TSOT-23-5"/>
+      <property name="Sheetname" value="Hall Effect Sensor 5"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Series Voltage Reference IC Fixed 5V V ±0.1% 10 mA TSOT-23-5"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 5/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/5c689594-d0df-4377-907d-4138d9de2741/"/>
+      <tstamps>0cc28d5f-ce4d-4f63-b047-2714a11754df</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Hall Effect Sensor 3"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 3/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a47f27bc-bdae-46b2-ae21-4f1d43650ae7/"/>
+      <tstamps>b5e218db-ec3b-4a8e-ab77-586be976ba22</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Hall Effect Sensor 3"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 3/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a47f27bc-bdae-46b2-ae21-4f1d43650ae7/"/>
+      <tstamps>f28669c4-8b7e-4116-8d59-3362ca7ab4b2</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Hall Effect Sensor 3"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 3/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a47f27bc-bdae-46b2-ae21-4f1d43650ae7/"/>
+      <tstamps>b4e7e7cf-3bb7-437f-8999-e06b9af0112e</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x03_Socket</value>
+      <footprint>Connector_PinSocket_1.27mm:PinSocket_1x03_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Socket" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value="Hall Effect Sensor 3"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 3/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a47f27bc-bdae-46b2-ae21-4f1d43650ae7/"/>
+      <tstamps>e1ab0c6f-f0ef-4fc4-8ca6-522bd4e43dd1</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="Hall Effect Sensor 3"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 3/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a47f27bc-bdae-46b2-ae21-4f1d43650ae7/"/>
+      <tstamps>76707a5b-3495-4b43-8785-c9f59b32d50e</tstamps>
+    </comp>
+    <comp ref="U23">
+      <value>WCS1700</value>
+      <footprint>Sensor_Hall_Effect:WCS1700</footprint>
+      <datasheet>http://www.winson.com.tw/uploads/images/WCS1700.pdf</datasheet>
+      <fields>
+        <field name="Application Note">http://www.winson.com.tw/uploads/images/WCS%20Application%20note.pdf</field>
+      </fields>
+      <libsource lib="Sensor_Hall_Effect" part="WCS1700" description="Hall effect sensor by Winson"/>
+      <property name="Application Note" value="http://www.winson.com.tw/uploads/images/WCS%20Application%20note.pdf"/>
+      <property name="Sheetname" value="Hall Effect Sensor 3"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Hall effect sensor by Winson"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 3/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a47f27bc-bdae-46b2-ae21-4f1d43650ae7/"/>
+      <tstamps>1275936f-4b18-4323-a85c-2a50ab8fafcf</tstamps>
+    </comp>
+    <comp ref="U24">
+      <value>ADR02AUJZ</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5_HandSoldering</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADR01_02_03_06.pdf</datasheet>
+      <libsource lib="v_ref" part="ADR02AUJZ" description="Series Voltage Reference IC Fixed 5V V ±0.1% 10 mA TSOT-23-5"/>
+      <property name="Sheetname" value="Hall Effect Sensor 3"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Series Voltage Reference IC Fixed 5V V ±0.1% 10 mA TSOT-23-5"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 3/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/a47f27bc-bdae-46b2-ae21-4f1d43650ae7/"/>
+      <tstamps>0cc28d5f-ce4d-4f63-b047-2714a11754df</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Hall Effect Sensor 6"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 6/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/ce934ce5-68bd-4af2-989d-02ef914e6177/"/>
+      <tstamps>b5e218db-ec3b-4a8e-ab77-586be976ba22</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Hall Effect Sensor 6"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 6/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/ce934ce5-68bd-4af2-989d-02ef914e6177/"/>
+      <tstamps>f28669c4-8b7e-4116-8d59-3362ca7ab4b2</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Hall Effect Sensor 6"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 6/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/ce934ce5-68bd-4af2-989d-02ef914e6177/"/>
+      <tstamps>b4e7e7cf-3bb7-437f-8999-e06b9af0112e</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x03_Socket</value>
+      <footprint>Connector_PinSocket_1.27mm:PinSocket_1x03_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Socket" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value="Hall Effect Sensor 6"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 6/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/ce934ce5-68bd-4af2-989d-02ef914e6177/"/>
+      <tstamps>e1ab0c6f-f0ef-4fc4-8ca6-522bd4e43dd1</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="Hall Effect Sensor 6"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 6/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/ce934ce5-68bd-4af2-989d-02ef914e6177/"/>
+      <tstamps>76707a5b-3495-4b43-8785-c9f59b32d50e</tstamps>
+    </comp>
+    <comp ref="U25">
+      <value>WCS1700</value>
+      <footprint>Sensor_Hall_Effect:WCS1700</footprint>
+      <datasheet>http://www.winson.com.tw/uploads/images/WCS1700.pdf</datasheet>
+      <fields>
+        <field name="Application Note">http://www.winson.com.tw/uploads/images/WCS%20Application%20note.pdf</field>
+      </fields>
+      <libsource lib="Sensor_Hall_Effect" part="WCS1700" description="Hall effect sensor by Winson"/>
+      <property name="Application Note" value="http://www.winson.com.tw/uploads/images/WCS%20Application%20note.pdf"/>
+      <property name="Sheetname" value="Hall Effect Sensor 6"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Hall effect sensor by Winson"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 6/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/ce934ce5-68bd-4af2-989d-02ef914e6177/"/>
+      <tstamps>1275936f-4b18-4323-a85c-2a50ab8fafcf</tstamps>
+    </comp>
+    <comp ref="U26">
+      <value>ADR02AUJZ</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5_HandSoldering</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADR01_02_03_06.pdf</datasheet>
+      <libsource lib="v_ref" part="ADR02AUJZ" description="Series Voltage Reference IC Fixed 5V V ±0.1% 10 mA TSOT-23-5"/>
+      <property name="Sheetname" value="Hall Effect Sensor 6"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Series Voltage Reference IC Fixed 5V V ±0.1% 10 mA TSOT-23-5"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 6/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/ce934ce5-68bd-4af2-989d-02ef914e6177/"/>
+      <tstamps>0cc28d5f-ce4d-4f63-b047-2714a11754df</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Hall Effect Sensor 4"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 4/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/6a6b67fe-7796-4022-8fb5-a4a7daec34a6/"/>
+      <tstamps>b5e218db-ec3b-4a8e-ab77-586be976ba22</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Hall Effect Sensor 4"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 4/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/6a6b67fe-7796-4022-8fb5-a4a7daec34a6/"/>
+      <tstamps>f28669c4-8b7e-4116-8d59-3362ca7ab4b2</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>0.1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Hall Effect Sensor 4"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 4/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/6a6b67fe-7796-4022-8fb5-a4a7daec34a6/"/>
+      <tstamps>b4e7e7cf-3bb7-437f-8999-e06b9af0112e</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_01x03_Socket</value>
+      <footprint>Connector_PinSocket_1.27mm:PinSocket_1x03_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Socket" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value="Hall Effect Sensor 4"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 4/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/6a6b67fe-7796-4022-8fb5-a4a7daec34a6/"/>
+      <tstamps>e1ab0c6f-f0ef-4fc4-8ca6-522bd4e43dd1</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="Hall Effect Sensor 4"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 4/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/6a6b67fe-7796-4022-8fb5-a4a7daec34a6/"/>
+      <tstamps>76707a5b-3495-4b43-8785-c9f59b32d50e</tstamps>
+    </comp>
+    <comp ref="U27">
+      <value>WCS1700</value>
+      <footprint>Sensor_Hall_Effect:WCS1700</footprint>
+      <datasheet>http://www.winson.com.tw/uploads/images/WCS1700.pdf</datasheet>
+      <fields>
+        <field name="Application Note">http://www.winson.com.tw/uploads/images/WCS%20Application%20note.pdf</field>
+      </fields>
+      <libsource lib="Sensor_Hall_Effect" part="WCS1700" description="Hall effect sensor by Winson"/>
+      <property name="Application Note" value="http://www.winson.com.tw/uploads/images/WCS%20Application%20note.pdf"/>
+      <property name="Sheetname" value="Hall Effect Sensor 4"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Hall effect sensor by Winson"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 4/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/6a6b67fe-7796-4022-8fb5-a4a7daec34a6/"/>
+      <tstamps>1275936f-4b18-4323-a85c-2a50ab8fafcf</tstamps>
+    </comp>
+    <comp ref="U28">
+      <value>ADR02AUJZ</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5_HandSoldering</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADR01_02_03_06.pdf</datasheet>
+      <libsource lib="v_ref" part="ADR02AUJZ" description="Series Voltage Reference IC Fixed 5V V ±0.1% 10 mA TSOT-23-5"/>
+      <property name="Sheetname" value="Hall Effect Sensor 4"/>
+      <property name="Sheetfile" value="HEF Sensor.kicad_sch"/>
+      <property name="ki_description" value="Series Voltage Reference IC Fixed 5V V ±0.1% 10 mA TSOT-23-5"/>
+      <sheetpath names="/Hall Effect Sensor Arrangement/Hall Effect Sensor 4/" tstamps="/d1d55932-50d4-4e7e-a52f-43a9df27cae9/6a6b67fe-7796-4022-8fb5-a4a7daec34a6/"/>
+      <tstamps>0cc28d5f-ce4d-4f63-b047-2714a11754df</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="MCP3208_1">
+      <description>A/D Converter, 12-Bit, 8-Channel, SPI Interface , 2.7V-5.5V</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/21298c.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U3</field>
+        <field name="Value">MCP3208</field>
+        <field name="Footprint">Package_SO:SOIC-16_3.9x9.9mm_P1.27mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/21298c.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CH0" type="input"/>
+        <pin num="2" name="CH1" type="input"/>
+        <pin num="3" name="CH2" type="input"/>
+        <pin num="4" name="CH3" type="input"/>
+        <pin num="5" name="CH4" type="input"/>
+        <pin num="6" name="CH5" type="input"/>
+        <pin num="7" name="CH6" type="input"/>
+        <pin num="8" name="CH7" type="input"/>
+        <pin num="9" name="DGND" type="power_in"/>
+        <pin num="10" name="~{CS}/SHDN" type="input"/>
+        <pin num="11" name="Din" type="input"/>
+        <pin num="12" name="Dout" type="tri_state"/>
+        <pin num="13" name="CLK" type="input"/>
+        <pin num="14" name="AGND" type="power_in"/>
+        <pin num="15" name="Vref" type="power_in"/>
+        <pin num="16" name="Vdd" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xGxx" part="74AUC2G08">
+      <description>Dual AND Gate, Low-Voltage CMOS</description>
+      <docs>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</docs>
+      <footprints>
+        <fp>SSOP*</fp>
+        <fp>VSSOP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74AUC2G08</field>
+        <field name="Datasheet">http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xGxx" part="74LVC2G240">
+      <description>Dual Inverter Buffer Tri-State, Low-Voltage CMOS</description>
+      <docs>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</docs>
+      <footprints>
+        <fp>VSSOP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LVC2G240</field>
+        <field name="Datasheet">http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="tri_state"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="tri_state"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Barrel_Jack_Switch">
+      <description>DC Barrel Jack with an internal switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack_Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Pin">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Socket">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x06">
+      <description>Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x06</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x08">
+      <description>Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x08</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic_MountingPin" part="Conn_01x03_MountingPin">
+      <description>Generic connectable mounting pin connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??-1MP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_MountingPin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="MP" name="MountPin" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Thermistor_PTC_US">
+      <description>Temperature dependent resistor, positive temperature coefficient, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*PTC*</fp>
+        <fp>*Thermistor*</fp>
+        <fp>PIN?ARRAY*</fp>
+        <fp>bornier*</fp>
+        <fp>*Terminal?Block*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TH</field>
+        <field name="Value">Thermistor_PTC_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Open">
+      <description>Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Reference_Voltage" part="MAX6107">
+      <description>Low-dropout high current voltage reference, 4.500V, ±0.4% accuracy, SOT-23</description>
+      <docs>http://datasheets.maximintegrated.com/en/ds/MAX6100-MAX6107.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX6107</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://datasheets.maximintegrated.com/en/ds/MAX6100-MAX6107.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="OUT" type="power_out"/>
+        <pin num="3" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LT1962-5">
+      <description>5.0V, 300mA, Low Noise, Micropower LDO Regulator, MSOP-8</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/1962fb.pdf</docs>
+      <footprints>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LT1962-5</field>
+        <field name="Footprint">Package_SO:MSOP-8_3x3mm_P0.65mm</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/1962fb.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="SENSE" type="input"/>
+        <pin num="3" name="BYP" type="passive"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="~{SHDN}" type="input"/>
+        <pin num="6" name="NC" type="no_connect"/>
+        <pin num="7" name="NC" type="no_connect"/>
+        <pin num="8" name="IN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Relay_SolidState" part="TLP222A">
+      <description>MOSFET Photorelay 1-Form-A, Voff 60V, Ion 0,5A, DIP4</description>
+      <docs>https://toshiba.semicon-storage.com/info/docget.jsp?did=17036&amp;prodName=TLP222A</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLP222A</field>
+        <field name="Footprint">Package_DIP:DIP-4_W7.62mm</field>
+        <field name="Datasheet">https://toshiba.semicon-storage.com/info/docget.jsp?did=17036&amp;prodName=TLP222A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Hall_Effect" part="WCS1700">
+      <description>Hall effect sensor by Winson</description>
+      <docs>http://www.winson.com.tw/uploads/images/WCS1700.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">WCS1700</field>
+        <field name="Footprint">Sensor_Hall_Effect:WCS1700</field>
+        <field name="Datasheet">http://www.winson.com.tw/uploads/images/WCS1700.pdf</field>
+        <field name="Application Note">http://www.winson.com.tw/uploads/images/WCS%20Application%20note.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VOUT" type="output"/>
+        <pin num="4" name="MP" type="input"/>
+        <pin num="5" name="MP" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="AO3400A">
+      <description>30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23</description>
+      <docs>http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">AO3400A</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="level_shift" part="TXB0106PW">
+      <description>4-Bit Bidirectional Voltage-Level Translator, Auto Direction Sensing and ±15-kV ESD Protection, 1.2 - 3.6V APort, 1.65 - 5.5V BPort, TSSOP-14</description>
+      <docs>https://www.ti.com/lit/ds/symlink/txb0106.pdf</docs>
+      <footprints>
+        <fp>TSSOP*14*5mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TXB0106PW</field>
+        <field name="Footprint">Package_SO:TSSOP-16_4.4x5mm_P0.65mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/txb0106.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="bidirectional"/>
+        <pin num="2" name="VCCA" type="power_in"/>
+        <pin num="3" name="A2" type="bidirectional"/>
+        <pin num="4" name="A3" type="bidirectional"/>
+        <pin num="5" name="A4" type="bidirectional"/>
+        <pin num="6" name="A5" type="bidirectional"/>
+        <pin num="7" name="A6" type="bidirectional"/>
+        <pin num="8" name="OE" type="input"/>
+        <pin num="9" name="GND" type="power_in"/>
+        <pin num="10" name="B6" type="bidirectional"/>
+        <pin num="11" name="B5" type="bidirectional"/>
+        <pin num="12" name="B4" type="bidirectional"/>
+        <pin num="13" name="B3" type="bidirectional"/>
+        <pin num="14" name="B2" type="bidirectional"/>
+        <pin num="15" name="VCCB" type="power_in"/>
+        <pin num="16" name="B1" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="teensy" part="Teensy4.1">
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">Teensy4.1</field>
+        <field name="Footprint">teensy:Teensy41</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="0_RX1_CRX2_CS1" type="bidirectional"/>
+        <pin num="3" name="1_TX1_CTX2_MISO1" type="bidirectional"/>
+        <pin num="4" name="2_OUT2" type="bidirectional"/>
+        <pin num="5" name="3_LRCLK2" type="bidirectional"/>
+        <pin num="6" name="4_BCLK2" type="bidirectional"/>
+        <pin num="7" name="5_IN2" type="bidirectional"/>
+        <pin num="8" name="6_OUT1D" type="bidirectional"/>
+        <pin num="9" name="7_RX2_OUT1A" type="bidirectional"/>
+        <pin num="10" name="8_TX2_IN1" type="bidirectional"/>
+        <pin num="11" name="9_OUT1C" type="bidirectional"/>
+        <pin num="12" name="10_CS_MQSR" type="bidirectional"/>
+        <pin num="13" name="11_MOSI_CTX1" type="bidirectional"/>
+        <pin num="14" name="12_MISO_MQSL" type="bidirectional"/>
+        <pin num="15" name="3V3" type="power_in"/>
+        <pin num="16" name="24_A10_TX6_SCL2" type="bidirectional"/>
+        <pin num="17" name="25_A11_RX6_SDA2" type="bidirectional"/>
+        <pin num="18" name="26_A12_MOSI1" type="bidirectional"/>
+        <pin num="19" name="27_A13_SCK1" type="bidirectional"/>
+        <pin num="20" name="28_RX7" type="bidirectional"/>
+        <pin num="21" name="29_TX7" type="bidirectional"/>
+        <pin num="22" name="30_CRX3" type="bidirectional"/>
+        <pin num="23" name="31_CTX3" type="bidirectional"/>
+        <pin num="24" name="32_OUT1B" type="bidirectional"/>
+        <pin num="25" name="33_MCLK2" type="bidirectional"/>
+        <pin num="26" name="34_RX8" type="bidirectional"/>
+        <pin num="27" name="35_TX8" type="bidirectional"/>
+        <pin num="28" name="36_CS" type="bidirectional"/>
+        <pin num="29" name="37_CS" type="bidirectional"/>
+        <pin num="30" name="38_CS1_IN1" type="bidirectional"/>
+        <pin num="31" name="39_MISO1_OUT1A" type="bidirectional"/>
+        <pin num="32" name="40_A16" type="bidirectional"/>
+        <pin num="33" name="41_A17" type="bidirectional"/>
+        <pin num="34" name="GND" type="power_in"/>
+        <pin num="35" name="13_SCK_LED" type="bidirectional"/>
+        <pin num="36" name="14_A0_TX3_SPDIF_OUT" type="bidirectional"/>
+        <pin num="37" name="15_A1_RX3_SPDIF_IN" type="bidirectional"/>
+        <pin num="38" name="16_A2_RX4_SCL1" type="bidirectional"/>
+        <pin num="39" name="17_A3_TX4_SDA1" type="bidirectional"/>
+        <pin num="40" name="18_A4_SDA" type="bidirectional"/>
+        <pin num="41" name="19_A5_SCL" type="bidirectional"/>
+        <pin num="42" name="20_A6_TX5_LRCLK1" type="bidirectional"/>
+        <pin num="43" name="21_A7_RX5_BCLK1" type="bidirectional"/>
+        <pin num="44" name="22_A8_CTX1" type="bidirectional"/>
+        <pin num="45" name="23_A9_CRX1_MCLK1" type="bidirectional"/>
+        <pin num="46" name="3V3" type="output"/>
+        <pin num="47" name="GND" type="power_in"/>
+        <pin num="48" name="VIN" type="power_in"/>
+        <pin num="49" name="VUSB" type="power_out"/>
+        <pin num="50" name="VBAT" type="power_in"/>
+        <pin num="51" name="3V3" type="power_in"/>
+        <pin num="52" name="GND" type="input"/>
+        <pin num="53" name="PROGRAM" type="input"/>
+        <pin num="54" name="ON_OFF" type="input"/>
+        <pin num="55" name="5V" type="power_out"/>
+        <pin num="56" name="D-" type="bidirectional"/>
+        <pin num="57" name="D+" type="bidirectional"/>
+        <pin num="58" name="GND" type="power_in"/>
+        <pin num="59" name="GND" type="power_in"/>
+        <pin num="60" name="R+" type="bidirectional"/>
+        <pin num="61" name="LED" type="bidirectional"/>
+        <pin num="62" name="T-" type="bidirectional"/>
+        <pin num="63" name="T+" type="bidirectional"/>
+        <pin num="64" name="GND" type="power_in"/>
+        <pin num="65" name="R-" type="bidirectional"/>
+        <pin num="66" name="D-" type="bidirectional"/>
+        <pin num="67" name="D+" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="v_ref" part="ADR02AUJZ">
+      <description>Series Voltage Reference IC Fixed 5V V ±0.1% 10 mA TSOT-23-5</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/ADR01_02_03_06.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADR02AUJZ</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/ADR01_02_03_06.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TEMP" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VIN" type="power_in"/>
+        <pin num="4" name="VOUT" type="power_out"/>
+        <pin num="5" name="TRIM" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xGxx">
+      <uri>/app/extensions/Library/symbols//74xGxx.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/app/extensions/Library/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic_MountingPin">
+      <uri>/app/extensions/Library/symbols//Connector_Generic_MountingPin.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/app/extensions/Library/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>/app/extensions/Library/symbols//Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/app/extensions/Library/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Reference_Voltage">
+      <uri>/app/extensions/Library/symbols//Reference_Voltage.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/app/extensions/Library/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Relay_SolidState">
+      <uri>/app/extensions/Library/symbols//Relay_SolidState.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Hall_Effect">
+      <uri>/home/ed/Documents/KiCad/Work Projects/WCS1700-Calibrator/lib/Sensor_Hall_Effect.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/app/extensions/Library/symbols//Switch.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>/app/extensions/Library/symbols//Transistor_FET.kicad_sym</uri>
+    </library>
+    <library logical="level_shift">
+      <uri>/home/ed/Documents/KiCad/Work Projects/WCS1700-Calibrator/lib/level_shift.kicad_sym</uri>
+    </library>
+    <library logical="v_ref">
+      <uri>/home/ed/Documents/KiCad/Work Projects/WCS1700-Calibrator/lib/v_ref.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U13" pin="15" pinfunction="3V3" pintype="power_in"/>
+      <node ref="U6" pin="2" pinfunction="VCCA" pintype="power_in"/>
+      <node ref="U6" pin="8" pinfunction="OE" pintype="input"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U11" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U12" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U13" pin="48" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U3" pin="2" pinfunction="SENSE" pintype="input"/>
+      <node ref="U4" pin="16" pinfunction="Vdd" pintype="power_in"/>
+      <node ref="U5" pin="16" pinfunction="Vdd" pintype="power_in"/>
+      <node ref="U6" pin="15" pinfunction="VCCB" pintype="power_in"/>
+    </net>
+    <net code="3" name="+12V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="IN" pintype="power_in"/>
+      <node ref="U18" pin="3" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="IN" pintype="power_in"/>
+      <node ref="U20" pin="3" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U22" pin="3" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U24" pin="3" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U26" pin="3" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U28" pin="3" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="4" name="/CAPTURE_BUTTON">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U13" pin="19" pinfunction="27_A13_SCK1" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/FORWARD">
+      <node ref="U11" pin="6" pintype="input"/>
+      <node ref="U12" pin="2" pintype="input"/>
+      <node ref="U13" pin="20" pinfunction="28_RX7" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/FWD_CHECK">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U11" pin="3" pintype="output"/>
+    </net>
+    <net code="7" name="/Hall Effect Sensor Arrangement/HEF_1">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U19" pin="3" pinfunction="VOUT" pintype="output"/>
+      <node ref="U4" pin="2" pinfunction="CH1" pintype="input"/>
+    </net>
+    <net code="8" name="/Hall Effect Sensor Arrangement/HEF_2">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U17" pin="3" pinfunction="VOUT" pintype="output"/>
+      <node ref="U4" pin="3" pinfunction="CH2" pintype="input"/>
+    </net>
+    <net code="9" name="/Hall Effect Sensor Arrangement/HEF_3">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U23" pin="3" pinfunction="VOUT" pintype="output"/>
+      <node ref="U4" pin="4" pinfunction="CH3" pintype="input"/>
+    </net>
+    <net code="10" name="/Hall Effect Sensor Arrangement/HEF_4">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="J11" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U27" pin="3" pinfunction="VOUT" pintype="output"/>
+      <node ref="U4" pin="5" pinfunction="CH4" pintype="input"/>
+    </net>
+    <net code="11" name="/Hall Effect Sensor Arrangement/HEF_5">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U21" pin="3" pinfunction="VOUT" pintype="output"/>
+      <node ref="U4" pin="6" pinfunction="CH5" pintype="input"/>
+    </net>
+    <net code="12" name="/Hall Effect Sensor Arrangement/HEF_6">
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U25" pin="3" pinfunction="VOUT" pintype="output"/>
+      <node ref="U4" pin="7" pinfunction="CH6" pintype="input"/>
+    </net>
+    <net code="13" name="/LOAD_1">
+      <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U13" pin="22" pinfunction="30_CRX3" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/LOAD_2">
+      <node ref="Q4" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U13" pin="23" pinfunction="31_CTX3" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/LOAD_3">
+      <node ref="Q5" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U13" pin="24" pinfunction="32_OUT1B" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/REVERSE">
+      <node ref="U11" pin="2" pintype="input"/>
+      <node ref="U12" pin="5" pintype="input"/>
+      <node ref="U13" pin="21" pinfunction="29_TX7" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/REV_CHECK">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U11" pin="7" pintype="output"/>
+    </net>
+    <net code="18" name="/SPI_3V3.MISO">
+      <node ref="U13" pin="14" pinfunction="12_MISO_MQSL" pintype="bidirectional"/>
+      <node ref="U6" pin="3" pinfunction="A2" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/SPI_3V3.MOSI">
+      <node ref="U13" pin="13" pinfunction="11_MOSI_CTX1" pintype="bidirectional"/>
+      <node ref="U6" pin="4" pinfunction="A3" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/SPI_3V3.SCLK">
+      <node ref="U13" pin="35" pinfunction="13_SCK_LED" pintype="bidirectional"/>
+      <node ref="U6" pin="1" pinfunction="A1" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/SPI_3V3.~{CS_TAM}">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U13" pin="11" pinfunction="9_OUT1C" pintype="bidirectional"/>
+      <node ref="U6" pin="6" pinfunction="A5" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/SPI_3V3.~{CS_WCS}">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U13" pin="12" pinfunction="10_CS_MQSR" pintype="bidirectional"/>
+      <node ref="U6" pin="5" pinfunction="A4" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/SPI_5V.MISO">
+      <node ref="U4" pin="12" pinfunction="Dout" pintype="tri_state"/>
+      <node ref="U5" pin="12" pinfunction="Dout" pintype="tri_state"/>
+      <node ref="U6" pin="14" pinfunction="B2" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/SPI_5V.MOSI">
+      <node ref="U4" pin="11" pinfunction="Din" pintype="input"/>
+      <node ref="U5" pin="11" pinfunction="Din" pintype="input"/>
+      <node ref="U6" pin="13" pinfunction="B3" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/SPI_5V.SCLK">
+      <node ref="U4" pin="13" pinfunction="CLK" pintype="input"/>
+      <node ref="U5" pin="13" pinfunction="CLK" pintype="input"/>
+      <node ref="U6" pin="16" pinfunction="B1" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/SPI_5V.~{CS_TAM}">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U5" pin="10" pinfunction="~{CS}/SHDN" pintype="input"/>
+      <node ref="U6" pin="11" pinfunction="B5" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/SPI_5V.~{CS_WCS}">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="~{CS}/SHDN" pintype="input"/>
+      <node ref="U6" pin="12" pinfunction="B4" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/~{FORWARD}">
+      <node ref="U11" pin="1" pintype="input"/>
+      <node ref="U12" pin="6" pintype="tri_state"/>
+    </net>
+    <net code="31" name="/~{REVERSE}">
+      <node ref="U11" pin="5" pintype="input"/>
+      <node ref="U12" pin="3" pintype="tri_state"/>
+    </net>
+    <net code="32" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="passive"/>
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="MP" pinfunction="MountPin" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="1" pintype="input"/>
+      <node ref="U12" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="7" pintype="input"/>
+      <node ref="U13" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="34" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="47" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="52" pinfunction="GND" pintype="input"/>
+      <node ref="U13" pin="58" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="59" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="64" pinfunction="GND" pintype="power_in"/>
+      <node ref="U17" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U17" pin="4" pinfunction="MP" pintype="input"/>
+      <node ref="U17" pin="5" pinfunction="MP" pintype="input"/>
+      <node ref="U18" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U19" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U19" pin="4" pinfunction="MP" pintype="input"/>
+      <node ref="U19" pin="5" pinfunction="MP" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U20" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U21" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U21" pin="4" pinfunction="MP" pintype="input"/>
+      <node ref="U21" pin="5" pinfunction="MP" pintype="input"/>
+      <node ref="U22" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U23" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U23" pin="4" pinfunction="MP" pintype="input"/>
+      <node ref="U23" pin="5" pinfunction="MP" pintype="input"/>
+      <node ref="U24" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U25" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U25" pin="4" pinfunction="MP" pintype="input"/>
+      <node ref="U25" pin="5" pinfunction="MP" pintype="input"/>
+      <node ref="U26" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U27" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U27" pin="4" pinfunction="MP" pintype="input"/>
+      <node ref="U27" pin="5" pinfunction="MP" pintype="input"/>
+      <node ref="U28" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="14" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U4" pin="8" pinfunction="CH7" pintype="input"/>
+      <node ref="U4" pin="9" pinfunction="DGND" pintype="power_in"/>
+      <node ref="U5" pin="14" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="CH2" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="CH3" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="CH4" pintype="input"/>
+      <node ref="U5" pin="6" pinfunction="CH5" pintype="input"/>
+      <node ref="U5" pin="7" pinfunction="CH6" pintype="input"/>
+      <node ref="U5" pin="8" pinfunction="CH7" pintype="input"/>
+      <node ref="U5" pin="9" pinfunction="DGND" pintype="power_in"/>
+      <node ref="U6" pin="9" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="33" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="TH1" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="TH1" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(J2-Pin_2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="CH1" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(J2-Pin_3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(J3-Pin_1)">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U7" pin="4" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(J3-Pin_2)">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U7" pin="3" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(J3-Pin_3)">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U8" pin="4" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(J3-Pin_4)">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U8" pin="3" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(J3-Pin_5)">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U9" pin="4" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(J3-Pin_6)">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U9" pin="3" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(J3-Pin_7)">
+      <node ref="J3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U10" pin="4" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(J3-Pin_8)">
+      <node ref="J3" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U10" pin="3" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(J4-Pin_2)">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U13" pin="9" pinfunction="7_RX2_OUT1A" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="Net-(J4-Pin_3)">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U13" pin="10" pinfunction="8_TX2_IN1" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="Net-(J5-Pin_1)">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U14" pin="4" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(J5-Pin_2)">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U14" pin="3" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(J5-Pin_3)">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U15" pin="4" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(J5-Pin_4)">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U15" pin="3" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(J5-Pin_5)">
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U16" pin="4" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(J5-Pin_6)">
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U16" pin="3" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(J6-Pin_1)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U17" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U18" pin="4" pinfunction="VOUT" pintype="power_out"/>
+    </net>
+    <net code="57" name="Net-(J7-Pin_1)">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U19" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U20" pin="4" pinfunction="VOUT" pintype="power_out"/>
+    </net>
+    <net code="58" name="Net-(J8-Pin_1)">
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U21" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U22" pin="4" pinfunction="VOUT" pintype="power_out"/>
+    </net>
+    <net code="59" name="Net-(J9-Pin_1)">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U23" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U24" pin="4" pinfunction="VOUT" pintype="power_out"/>
+    </net>
+    <net code="60" name="Net-(J10-Pin_1)">
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U25" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U26" pin="4" pinfunction="VOUT" pintype="power_out"/>
+    </net>
+    <net code="61" name="Net-(J11-Pin_1)">
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U27" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U28" pin="4" pinfunction="VOUT" pintype="power_out"/>
+    </net>
+    <net code="62" name="Net-(JP3-B)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="JP3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="~{SHDN}" pintype="input"/>
+      <node ref="U3" pin="8" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="63" name="Net-(Q1-S)">
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="U7" pin="1" pintype="passive"/>
+      <node ref="U8" pin="1" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(Q2-S)">
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="U10" pin="1" pintype="passive"/>
+      <node ref="U9" pin="1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(Q3-S)">
+      <node ref="Q3" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="U14" pin="1" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(Q4-S)">
+      <node ref="Q4" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="U15" pin="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(Q5-S)">
+      <node ref="Q5" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="U16" pin="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U7" pin="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U8" pin="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(R12-Pad1)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U9" pin="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(R13-Pad1)">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U10" pin="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(R22-Pad1)">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U14" pin="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(R23-Pad1)">
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="U15" pin="2" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(R24-Pad1)">
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U16" pin="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(U1-OUT)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U4" pin="15" pinfunction="Vref" pintype="power_in"/>
+    </net>
+    <net code="76" name="Net-(U2-OUT)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U5" pin="15" pinfunction="Vref" pintype="power_in"/>
+    </net>
+    <net code="77" name="Net-(U3-BYP)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="BYP" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(U4-CH0)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="CH0" pintype="input"/>
+    </net>
+    <net code="79" name="Net-(U5-CH0)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="CH0" pintype="input"/>
+    </net>
+    <net code="80" name="unconnected-(U3-NC-Pad6)">
+      <node ref="U3" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(U3-NC-Pad7)">
+      <node ref="U3" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(U6-A6-Pad7)">
+      <node ref="U6" pin="7" pinfunction="A6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(U6-B6-Pad10)">
+      <node ref="U6" pin="10" pinfunction="B6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(U13-0_RX1_CRX2_CS1-Pad2)">
+      <node ref="U13" pin="2" pinfunction="0_RX1_CRX2_CS1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(U13-1_TX1_CTX2_MISO1-Pad3)">
+      <node ref="U13" pin="3" pinfunction="1_TX1_CTX2_MISO1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(U13-2_OUT2-Pad4)">
+      <node ref="U13" pin="4" pinfunction="2_OUT2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(U13-3V3-Pad46)">
+      <node ref="U13" pin="46" pinfunction="3V3" pintype="output+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(U13-3V3-Pad51)">
+      <node ref="U13" pin="51" pinfunction="3V3" pintype="power_in+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(U13-3_LRCLK2-Pad5)">
+      <node ref="U13" pin="5" pinfunction="3_LRCLK2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(U13-4_BCLK2-Pad6)">
+      <node ref="U13" pin="6" pinfunction="4_BCLK2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(U13-5V-Pad55)">
+      <node ref="U13" pin="55" pinfunction="5V" pintype="power_out+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(U13-5_IN2-Pad7)">
+      <node ref="U13" pin="7" pinfunction="5_IN2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(U13-6_OUT1D-Pad8)">
+      <node ref="U13" pin="8" pinfunction="6_OUT1D" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(U13-14_A0_TX3_SPDIF_OUT-Pad36)">
+      <node ref="U13" pin="36" pinfunction="14_A0_TX3_SPDIF_OUT" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(U13-15_A1_RX3_SPDIF_IN-Pad37)">
+      <node ref="U13" pin="37" pinfunction="15_A1_RX3_SPDIF_IN" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(U13-16_A2_RX4_SCL1-Pad38)">
+      <node ref="U13" pin="38" pinfunction="16_A2_RX4_SCL1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(U13-17_A3_TX4_SDA1-Pad39)">
+      <node ref="U13" pin="39" pinfunction="17_A3_TX4_SDA1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(U13-18_A4_SDA-Pad40)">
+      <node ref="U13" pin="40" pinfunction="18_A4_SDA" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(U13-19_A5_SCL-Pad41)">
+      <node ref="U13" pin="41" pinfunction="19_A5_SCL" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(U13-20_A6_TX5_LRCLK1-Pad42)">
+      <node ref="U13" pin="42" pinfunction="20_A6_TX5_LRCLK1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(U13-21_A7_RX5_BCLK1-Pad43)">
+      <node ref="U13" pin="43" pinfunction="21_A7_RX5_BCLK1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(U13-22_A8_CTX1-Pad44)">
+      <node ref="U13" pin="44" pinfunction="22_A8_CTX1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(U13-23_A9_CRX1_MCLK1-Pad45)">
+      <node ref="U13" pin="45" pinfunction="23_A9_CRX1_MCLK1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(U13-24_A10_TX6_SCL2-Pad16)">
+      <node ref="U13" pin="16" pinfunction="24_A10_TX6_SCL2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(U13-25_A11_RX6_SDA2-Pad17)">
+      <node ref="U13" pin="17" pinfunction="25_A11_RX6_SDA2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(U13-26_A12_MOSI1-Pad18)">
+      <node ref="U13" pin="18" pinfunction="26_A12_MOSI1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(U13-33_MCLK2-Pad25)">
+      <node ref="U13" pin="25" pinfunction="33_MCLK2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(U13-34_RX8-Pad26)">
+      <node ref="U13" pin="26" pinfunction="34_RX8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(U13-35_TX8-Pad27)">
+      <node ref="U13" pin="27" pinfunction="35_TX8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(U13-36_CS-Pad28)">
+      <node ref="U13" pin="28" pinfunction="36_CS" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(U13-37_CS-Pad29)">
+      <node ref="U13" pin="29" pinfunction="37_CS" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(U13-38_CS1_IN1-Pad30)">
+      <node ref="U13" pin="30" pinfunction="38_CS1_IN1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(U13-39_MISO1_OUT1A-Pad31)">
+      <node ref="U13" pin="31" pinfunction="39_MISO1_OUT1A" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(U13-40_A16-Pad32)">
+      <node ref="U13" pin="32" pinfunction="40_A16" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(U13-41_A17-Pad33)">
+      <node ref="U13" pin="33" pinfunction="41_A17" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(U13-D+-Pad57)">
+      <node ref="U13" pin="57" pinfunction="D+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(U13-D+-Pad67)">
+      <node ref="U13" pin="67" pinfunction="D+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(U13-D--Pad56)">
+      <node ref="U13" pin="56" pinfunction="D-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(U13-D--Pad66)">
+      <node ref="U13" pin="66" pinfunction="D-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(U13-LED-Pad61)">
+      <node ref="U13" pin="61" pinfunction="LED" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(U13-ON_OFF-Pad54)">
+      <node ref="U13" pin="54" pinfunction="ON_OFF" pintype="input+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(U13-PROGRAM-Pad53)">
+      <node ref="U13" pin="53" pinfunction="PROGRAM" pintype="input+no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(U13-R+-Pad60)">
+      <node ref="U13" pin="60" pinfunction="R+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(U13-R--Pad65)">
+      <node ref="U13" pin="65" pinfunction="R-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(U13-T+-Pad63)">
+      <node ref="U13" pin="63" pinfunction="T+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(U13-T--Pad62)">
+      <node ref="U13" pin="62" pinfunction="T-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(U13-VBAT-Pad50)">
+      <node ref="U13" pin="50" pinfunction="VBAT" pintype="power_in+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(U13-VUSB-Pad49)">
+      <node ref="U13" pin="49" pinfunction="VUSB" pintype="power_out+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(U18-TEMP-Pad1)">
+      <node ref="U18" pin="1" pinfunction="TEMP" pintype="input+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(U18-TRIM-Pad5)">
+      <node ref="U18" pin="5" pinfunction="TRIM" pintype="input+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(U20-TEMP-Pad1)">
+      <node ref="U20" pin="1" pinfunction="TEMP" pintype="input+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(U20-TRIM-Pad5)">
+      <node ref="U20" pin="5" pinfunction="TRIM" pintype="input+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(U22-TEMP-Pad1)">
+      <node ref="U22" pin="1" pinfunction="TEMP" pintype="input+no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(U22-TRIM-Pad5)">
+      <node ref="U22" pin="5" pinfunction="TRIM" pintype="input+no_connect"/>
+    </net>
+    <net code="135" name="unconnected-(U24-TEMP-Pad1)">
+      <node ref="U24" pin="1" pinfunction="TEMP" pintype="input+no_connect"/>
+    </net>
+    <net code="136" name="unconnected-(U24-TRIM-Pad5)">
+      <node ref="U24" pin="5" pinfunction="TRIM" pintype="input+no_connect"/>
+    </net>
+    <net code="137" name="unconnected-(U26-TEMP-Pad1)">
+      <node ref="U26" pin="1" pinfunction="TEMP" pintype="input+no_connect"/>
+    </net>
+    <net code="138" name="unconnected-(U26-TRIM-Pad5)">
+      <node ref="U26" pin="5" pinfunction="TRIM" pintype="input+no_connect"/>
+    </net>
+    <net code="139" name="unconnected-(U28-TEMP-Pad1)">
+      <node ref="U28" pin="1" pinfunction="TEMP" pintype="input+no_connect"/>
+    </net>
+    <net code="140" name="unconnected-(U28-TRIM-Pad5)">
+      <node ref="U28" pin="5" pinfunction="TRIM" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
