@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 5600200230
+#
+DEF 5600200230 J 0 40 Y Y 1 L N
+F0 "J" -200 250 50 H V L BNN
+F1 "5600200230" -200 -500 50 H V L BNN
+F2 "MOLEX_5600200230" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "K" 0 0 50 H I L BNN "PARTREV"
+F5 "MOLEX" 0 0 50 H I L BNN "MANUFACTURER"
+F6 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F7 "8.00mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+DRAW
+P 2 0 0 10 -200 100 -125 100 N
+S -175 87 -112 112 0 0 0 F
+P 2 0 0 10 -200 0 -125 0 N
+S -175 -12 -112 12 0 0 0 F
+P 2 0 0 10 -200 150 -150 200 N
+P 2 0 0 10 -200 -350 -150 -400 N
+S -179 -400 221 200 0 0 10 f
+X 1 1 -400 100 200 R 40 40 0 0 P 
+X 2 2 -400 0 200 R 40 40 0 0 P 
+X SHIELD S1 -400 -200 200 R 40 40 0 0 P 
+X SHIELD__1 S2 -400 -300 200 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
