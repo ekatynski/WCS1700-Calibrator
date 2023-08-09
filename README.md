@@ -17,3 +17,4 @@ An assembly guide for this board can be found in this repository at `/hardware/b
 ## To-Do
 - [ ] Update firmware to reflect changes to layout and functionality
 - [ ] Update README file to reflect changes to procedure and documentation
+- [ ] Get Step models for both the WCS1700 and the Teensy 4.1
