@@ -1,0 +1,28 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 6d7a1206-df3c-45c7-a4f9-00d21164bce5)
+
+  (paper "A4")
+
+  (title_block
+    (title "WCS1700 Calibrator")
+    (date "2023-08-08")
+    (rev "2.0")
+    (comment 1 "Ed Katynski")
+    (comment 2 "(PENDING REVIEW)")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "2.0: \n- Schematic rework for clarity and added revision notes.\n- Changed +5V reference for hall effect sensors\n- Added LED indicators and name/date placard in silkscreen\n- Reduced the number of hall effect sensors supported per board\n- Set up autocalibration resistors for MCP3208 ADC\n- Switched to more convenient power connector\n- Added second MCP3208 sensor to track a seperate Tamura L01Z hall effect sensor\n- Mass positioning changes for legibility\n- Added mounting holes\n- Added reverse polarity protection diode on barrel jack power input\n- Set up contacter interface for automatic load switching as well as protection logic\n- Added input protection diode and PTC for use with +12V barrel jack input\n- Switched to six channel level shifter to support second MCP3208 device\n\n1.1: Revised SPI bus layout to correct mistaken pin assignment.\n\n1.0: Initial development."
+    (at 83.82 119.38 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 1b03f83c-dfae-4a4f-8f54-7b4d3b5d80e6)
+  )
+  (text "REVISION NOTES" (at 116.84 38.1 0)
+    (effects (font (size 5.08 5.08) (thickness 1.016) bold) (justify left bottom))
+    (uuid b5b2cb39-0a2e-48b1-b083-6322fd124f18)
+  )
+)
