@@ -1,0 +1,11 @@
+# Ignore KiCad backups
+WCS1700_Calibrator-backups/
+
+# Ignore gerber files
+gbr/
+
+# Ignore KiCad lock files
+*.lck
+
+# Ignore logs
+*.log
