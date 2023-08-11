@@ -3,7 +3,8 @@
 #include <vector>
 #include "Mcp320x.h"
 
-const int SPI_CS = 10;        // SPI CS pin
+const int WCS_CS = 10;        // WCS1700 ADC CS pin
+const int TAMURA_CS = 11;     // Tamura hall effect sensor CS pin
 const int ADC_VREF = 5000;    // 5.0V Vref
 const int ADC_CLK = 500000;   // SPI clock 500kHz
 const int SPLS = 10;          // 10 samples
@@ -26,14 +27,14 @@ MCP3208::Channel channels[8] = {
   MCP3208::Channel::SINGLE_7
 };
 
-MCP3208 adc(ADC_VREF, SPI_CS);
+MCP3208 adc(ADC_VREF, WCS_CS);
 
 void setup() {
   // configure PIN mode
-  pinMode(SPI_CS, OUTPUT);
+  pinMode(WCS_CS, OUTPUT);
 
   // set initial PIN state
-  digitalWrite(SPI_CS, HIGH);
+  digitalWrite(WCS_CS, HIGH);
 
   // initialize serial
   Serial.begin(115200);
