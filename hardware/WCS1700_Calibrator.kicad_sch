@@ -5307,6 +5307,39 @@
     )
   )
 
+  (symbol (lib_id "Relay_SolidState:TLP222A") (at 195.58 215.9 0) (mirror y) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 275e1641-eaba-42a3-923f-96e79927857b)
+    (property "Reference" "U10" (at 195.58 208.026 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "TLP241A(TP1,F" (at 195.58 210.566 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "OptoDevice:OnSemi_CASE100CY" (at 200.66 220.98 0)
+      (effects (font (size 1.27 1.27) italic) (justify left) hide)
+    )
+    (property "Datasheet" "https://toshiba.semicon-storage.com/info/TLP241A_datasheet_en_20200217.pdf?did=14237&prodName=TLP241A" (at 195.58 215.9 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (pin "1" (uuid 09931f78-3561-443c-bcf1-e764fc83b267))
+    (pin "2" (uuid 7345b46d-9c78-4353-963a-c3196eaee00e))
+    (pin "3" (uuid ebb5fe1d-d502-4669-bd7b-d577b3efc49b))
+    (pin "4" (uuid bacf017d-a660-4ff3-be17-398aaf64a924))
+    (instances
+      (project "WCS1700_Calibrator"
+        (path "/1f03928c-0f24-4718-b1ed-d2ed2f2fbec7"
+          (reference "U10") (unit 1)
+        )
+      )
+      (project "Test-Stand-Power-Monitor"
+        (path "/ad7defa1-1037-454f-89aa-6b13c5f4fb2d"
+          (reference "U?") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 236.22 274.32 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 28a26ade-1dce-438c-a574-e617cc9bfe1b)
@@ -5842,39 +5875,6 @@
     )
   )
 
-  (symbol (lib_id "Relay_SolidState:TLP222A") (at 195.58 215.9 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 400cea50-002a-4276-95ea-506d854472bf)
-    (property "Reference" "U9" (at 195.58 208.026 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "TLP241A(TP1,F" (at 195.58 210.566 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "OptoDevice:OnSemi_CASE100CY" (at 200.66 220.98 0)
-      (effects (font (size 1.27 1.27) italic) (justify left) hide)
-    )
-    (property "Datasheet" "https://toshiba.semicon-storage.com/info/TLP241A_datasheet_en_20200217.pdf?did=14237&prodName=TLP241A" (at 195.58 215.9 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (pin "1" (uuid 529ee434-96ec-400f-a9a4-7fe7556f4379))
-    (pin "2" (uuid 36fbb2cd-0df5-41d1-a3d4-f8dfe0695660))
-    (pin "3" (uuid 257f2bce-5862-47e4-a637-1a1ba33dfac5))
-    (pin "4" (uuid aebd8677-893d-40e3-a152-48180124cda6))
-    (instances
-      (project "WCS1700_Calibrator"
-        (path "/1f03928c-0f24-4718-b1ed-d2ed2f2fbec7"
-          (reference "U9") (unit 1)
-        )
-      )
-      (project "Test-Stand-Power-Monitor"
-        (path "/ad7defa1-1037-454f-89aa-6b13c5f4fb2d"
-          (reference "U?") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "power:+5V") (at 132.08 179.07 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 41e5ddee-0ce7-4e27-92f9-36dc8f59cc54)
@@ -6258,37 +6258,6 @@
       (project "WCS1700_Calibrator"
         (path "/1f03928c-0f24-4718-b1ed-d2ed2f2fbec7"
           (reference "#PWR01") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R_US") (at 219.71 201.93 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 5dd4716d-8442-42c5-8af9-8337ebbb50bc)
-    (property "Reference" "R13" (at 217.932 201.295 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "500R" (at 217.932 203.835 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (at 218.694 202.184 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 219.71 201.93 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 19fcc8b6-1dd1-4ae9-a45d-e6467efc3ad6))
-    (pin "2" (uuid 9afa6040-3f7a-461d-a921-ce299b98a11c))
-    (instances
-      (project "WCS1700_Calibrator"
-        (path "/1f03928c-0f24-4718-b1ed-d2ed2f2fbec7"
-          (reference "R13") (unit 1)
-        )
-      )
-      (project "Test-Stand-Power-Monitor"
-        (path "/ad7defa1-1037-454f-89aa-6b13c5f4fb2d"
-          (reference "R?") (unit 1)
         )
       )
     )
@@ -6700,6 +6669,39 @@
     )
   )
 
+  (symbol (lib_id "Relay_SolidState:TLP222A") (at 203.2 193.04 0) (mirror y) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 72961016-544d-46ef-b5c0-a97612a500b8)
+    (property "Reference" "U9" (at 203.2 185.166 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "TLP241A(TP1,F" (at 203.2 187.706 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "OptoDevice:OnSemi_CASE100CY" (at 208.28 198.12 0)
+      (effects (font (size 1.27 1.27) italic) (justify left) hide)
+    )
+    (property "Datasheet" "https://toshiba.semicon-storage.com/info/TLP241A_datasheet_en_20200217.pdf?did=14237&prodName=TLP241A" (at 203.2 193.04 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (pin "1" (uuid e5bfca8b-ec94-4607-8236-48e1b14fd50d))
+    (pin "2" (uuid 61936505-2c9e-4171-8d7e-9b5eb3a63705))
+    (pin "3" (uuid cb69b472-6095-4137-b1d5-2c4efaad7807))
+    (pin "4" (uuid 913f0dc7-0a2c-4b12-9cf5-c7bd45e9dd1e))
+    (instances
+      (project "WCS1700_Calibrator"
+        (path "/1f03928c-0f24-4718-b1ed-d2ed2f2fbec7"
+          (reference "U9") (unit 1)
+        )
+      )
+      (project "Test-Stand-Power-Monitor"
+        (path "/ad7defa1-1037-454f-89aa-6b13c5f4fb2d"
+          (reference "U?") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:+5V") (at 351.79 210.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 729a7366-64e5-4353-b502-90a535294ee6)
@@ -6879,39 +6881,6 @@
       (project "WCS1700_Calibrator"
         (path "/1f03928c-0f24-4718-b1ed-d2ed2f2fbec7"
           (reference "#PWR060") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Relay_SolidState:TLP222A") (at 203.2 193.04 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 78c35161-2830-4747-be90-ed0b3fb719ed)
-    (property "Reference" "U10" (at 203.2 185.166 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "TLP241A(TP1,F" (at 203.2 187.706 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "OptoDevice:OnSemi_CASE100CY" (at 208.28 198.12 0)
-      (effects (font (size 1.27 1.27) italic) (justify left) hide)
-    )
-    (property "Datasheet" "https://toshiba.semicon-storage.com/info/TLP241A_datasheet_en_20200217.pdf?did=14237&prodName=TLP241A" (at 203.2 193.04 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (pin "1" (uuid c26f2f1a-3091-47fa-b150-3fc2b3ebe0a0))
-    (pin "2" (uuid 87865496-41db-4a11-92d7-4a9583d55f90))
-    (pin "3" (uuid 3e95fa8a-03d9-4f22-b4fc-56d09d1495aa))
-    (pin "4" (uuid e2949e12-e4ea-4e18-a534-03a609ed9552))
-    (instances
-      (project "WCS1700_Calibrator"
-        (path "/1f03928c-0f24-4718-b1ed-d2ed2f2fbec7"
-          (reference "U10") (unit 1)
-        )
-      )
-      (project "Test-Stand-Power-Monitor"
-        (path "/ad7defa1-1037-454f-89aa-6b13c5f4fb2d"
-          (reference "U?") (unit 1)
         )
       )
     )
@@ -7152,37 +7121,6 @@
       (project "WCS1700_Calibrator"
         (path "/1f03928c-0f24-4718-b1ed-d2ed2f2fbec7"
           (reference "U6") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R_US") (at 208.28 222.25 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 85b7d818-85c1-42b5-aa77-a7ff9864add6)
-    (property "Reference" "R12" (at 206.502 221.615 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "500R" (at 206.502 224.155 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (at 207.264 222.504 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 208.28 222.25 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid a59fd4c4-a3e3-4eca-b9b2-1350dcefbaf3))
-    (pin "2" (uuid 8e168973-3ff7-401a-8981-a360ba08b4dd))
-    (instances
-      (project "WCS1700_Calibrator"
-        (path "/1f03928c-0f24-4718-b1ed-d2ed2f2fbec7"
-          (reference "R12") (unit 1)
-        )
-      )
-      (project "Test-Stand-Power-Monitor"
-        (path "/ad7defa1-1037-454f-89aa-6b13c5f4fb2d"
-          (reference "R?") (unit 1)
         )
       )
     )
@@ -8329,6 +8267,37 @@
     )
   )
 
+  (symbol (lib_id "Device:R_US") (at 219.71 201.93 0) (mirror y) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid c419940d-a39d-4f6f-978b-925f6ad4961e)
+    (property "Reference" "R12" (at 217.932 201.295 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "500R" (at 217.932 203.835 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (at 218.694 202.184 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 219.71 201.93 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4c47ef73-4186-476c-94e9-9233b339adba))
+    (pin "2" (uuid 4a97b28e-3f79-4f72-babe-801d916e2c7b))
+    (instances
+      (project "WCS1700_Calibrator"
+        (path "/1f03928c-0f24-4718-b1ed-d2ed2f2fbec7"
+          (reference "R12") (unit 1)
+        )
+      )
+      (project "Test-Stand-Power-Monitor"
+        (path "/ad7defa1-1037-454f-89aa-6b13c5f4fb2d"
+          (reference "R?") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 203.2 45.72 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c426a15c-3fac-414e-b3c0-87af51f4abe4)
@@ -8844,6 +8813,37 @@
       (project "WCS1700_Calibrator"
         (path "/1f03928c-0f24-4718-b1ed-d2ed2f2fbec7"
           (reference "C12") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:R_US") (at 208.28 222.25 0) (mirror y) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid ed7c5f49-4b32-41d2-8e14-ec583ac7ced6)
+    (property "Reference" "R13" (at 206.502 221.615 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "500R" (at 206.502 224.155 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (at 207.264 222.504 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 208.28 222.25 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f5f4b707-2521-4929-a7b2-8568d47d639c))
+    (pin "2" (uuid 691767af-48da-4bd1-8da6-58ba9e176c14))
+    (instances
+      (project "WCS1700_Calibrator"
+        (path "/1f03928c-0f24-4718-b1ed-d2ed2f2fbec7"
+          (reference "R13") (unit 1)
+        )
+      )
+      (project "Test-Stand-Power-Monitor"
+        (path "/ad7defa1-1037-454f-89aa-6b13c5f4fb2d"
+          (reference "R?") (unit 1)
         )
       )
     )
