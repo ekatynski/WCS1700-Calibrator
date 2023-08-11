@@ -32,9 +32,11 @@ MCP3208 adc(ADC_VREF, WCS_CS);
 void setup() {
   // configure PIN mode
   pinMode(WCS_CS, OUTPUT);
+  pinMode(TAMURA_CS, OUTPUT);
 
   // set initial PIN state
   digitalWrite(WCS_CS, HIGH);
+  digitalWrite(TAMURA_CS, HIGH);
 
   // initialize serial
   Serial.begin(115200);
