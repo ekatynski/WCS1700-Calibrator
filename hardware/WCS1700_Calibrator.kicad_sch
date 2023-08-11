@@ -8449,31 +8449,6 @@
     )
   )
 
-  (symbol (lib_id "power:+5V") (at 353.06 285.75 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid cbdde4ce-ea07-488c-8aac-e999dc6d94fe)
-    (property "Reference" "#PWR063" (at 353.06 289.56 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+5V" (at 353.06 280.67 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 353.06 285.75 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 353.06 285.75 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 6f3d7e2d-201f-4590-849f-40eaecb6a9e1))
-    (instances
-      (project "WCS1700_Calibrator"
-        (path "/1f03928c-0f24-4718-b1ed-d2ed2f2fbec7"
-          (reference "#PWR063") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "power:+5V") (at 132.08 82.55 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ce41a5a2-78ce-47a2-b93c-2e4f381804ff)
