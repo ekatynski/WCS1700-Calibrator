@@ -5,11 +5,11 @@
 
 const int WCS_CS = 10;        // WCS1700 ADC CS pin
 const int TAMURA_CS = 11;     // Tamura hall effect sensor CS pin
-const int ADC_VREF = 5000;    // 5.0V Vref
+const int ADC_VREF = 4500;    // 4.5V Vref
 const int ADC_CLK = 500000;   // SPI clock 500kHz
 const int SPLS = 10;          // 10 samples
 
-float gain = 1.11;            // ADC gain, set by hand for now
+float gain = 1.00;            // ADC gain, set by hand for now
 int offset = 0;               // ADC offset (bits), initially set to zero
 
 uint16_t data[SPLS] = {0};    // array to store samples from each adc.read() call
