@@ -14,7 +14,7 @@ A board designed to aid in calibrating six [Winson WCS1700 hall effect sensors](
 Schematic and BOM can both be found in the `/hardware/` section of this repository. Expanded description of hardware functionality coming soon.
 
 ## Software
-All software can be found in the `/software/` section of this repository. Expanded description of software functionality coming soon.
+All software can be found in the `/software/` section of this repository. Expanded description of software functionality coming soon. In addition, software updates to expand contactor control functionality and independent current volume is on the way, but the software necessary to simply monitor and report the WCS1700 hall effect sensor outputs is ready and implemented.
 
 ## Procedure
 1. Slot one WCS hall effect sensor into each of the six ports on the right. This will feed them a +5V reference and allow their output voltages to be tracked via a nearby ADC
