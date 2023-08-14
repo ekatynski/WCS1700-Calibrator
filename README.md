@@ -3,7 +3,7 @@ View this project on [CADLAB.io](https://cadlab.io/project/27238).
 # WCS1700-Calibrator
 A board designed to aid in calibrating six [Winson WCS1700 hall effect sensors](https://www.winson.com.tw/uploads/images/WCS1700.pdf) at the same time as well as the software needed to drive it.
 
-![Rendering of the completed PCB](https://github.com/ekatynski/WCS1700-Calibrator/blob/promo_image/media/WCS1700_Tester.png?raw=true)
+![Rendering of the completed PCB](https://github.com/ekatynski/WCS1700-Calibrator/blob/main/media/WCS1700_Tester.png?raw=true)
 
 ## Requirements
 1. +12V power supply rated for at least 1A with barrel jack connection (+8V will work in a pinch)
