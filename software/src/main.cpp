@@ -3,16 +3,24 @@
 #include <vector>
 #include "Mcp320x.h"
 
-const int WCS_CS = 10;        // WCS1700 ADC CS pin
-const int TAMURA_CS = 11;     // Tamura hall effect sensor CS pin
-const int ADC_VREF = 4500;    // 4.5V Vref
-const int ADC_CLK = 500000;   // SPI clock 500kHz
-const int SPLS = 10;          // 10 samples
+// SPI bus variables
+const int WCS_CS = 10;          // WCS1700 ADC CS pin
+const int TAMURA_CS = 11;       // Tamura hall effect sensor CS pin
+const int ADC_VREF = 4500;      // 4.5V Vref
+const int ADC_CLK = 500000;     // SPI clock 500kHz
+const int SPLS = 10;            // 10 samples
 
-float gain = 1.00;            // ADC gain, set by hand for now
-int offset = 0;               // ADC offset (bits), initially set to zero
+// ADC autocalibration variables
+const int gainChannel = 0;      // ADC channel used to measure gain error
+const int offsetChannel = 7;    // ADC channel used to measure offset error
+const int errorThreshold = 500; // number of reporting cycles performed before evaluating error
+int reportCount = 0;            // running counter for reports
+float gain = 1.00;              // ADC gain, set by hand for now
+int offset = 0;                 // ADC offset (bits), initially set to zero
 
-uint16_t data[SPLS] = {0};    // array to store samples from each adc.read() call
+// averaging structures
+// TODO: set up individual structures for separate ADCs
+uint16_t data[SPLS] = {0};      // array to store samples from each adc.read() call
 int avg[8] = {0};
 
 // indexing channel enums to integers to ease looping
@@ -27,7 +35,35 @@ MCP3208::Channel channels[8] = {
   MCP3208::Channel::SINGLE_7
 };
 
+// TODO: Initialize and name second ADC for external Hall Effect Sensor
 MCP3208 adc(ADC_VREF, WCS_CS);
+
+// calculate and current gain coefficient
+float checkGain() {
+  adc.read(channels[gainChannel], data);
+
+  // average the samples collected for each channel
+    for (int i = 0; i < SPLS; i++) {
+      avg[gainChannel] += data[i];
+    }
+  avg[gainChannel] /= SPLS;
+
+  // divide calculated GAIN_REF voltage by actual to determine gain coefficient
+  return float(adc.toAnalog(avg[gainChannel])) / (ADC_VREF / 2);
+}
+
+// calculate and return current voltage offset
+int checkOffset() {
+  adc.read(channels[offsetChannel], data);
+
+  // average the samples collected for each channel
+    for (int i = 0; i < SPLS; i++) {
+      avg[offsetChannel] += data[i];
+    }
+  avg[offsetChannel] /= SPLS;
+
+  return avg[offsetChannel];
+}
 
 void setup() {
   // configure PIN mode
@@ -56,6 +92,17 @@ void setup() {
 }
 
 void loop() {
+  // check if threshold reached for resetting gain/offset values
+  if (reportCount >= errorThreshold) {
+    gain = checkGain();
+    offset = checkOffset();
+    reportCount = 0;
+
+    // print out new gain and offset values
+    Serial.println("\nGain: " + String(gain) + "\tOffset: " + String(adc.toAnalog(offset)) + " mV");
+    Serial.println("\n");
+  }
+
   // timestamping
   Serial.println("Sample time: " + String((float(millis()) / 1000.0f)) + "s");
   
@@ -79,6 +126,7 @@ void loop() {
     Serial.println("Channel " + String(i) + ":\t" + String(adc.toAnalog(avg[i])) + " mV\t(" + String(avg[i]) + ")");
   }
 
+  reportCount++;  // increment report counter
   Serial.println();
   delay(100);
 }

@@ -1,5 +1,6 @@
 # Ignore KiCad backups
 WCS1700_Calibrator-backups/
+*.kicad_sch-bak
 
 # Ignore gerber files
 gbr/
