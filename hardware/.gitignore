@@ -1,12 +1,12 @@
 # Ignore KiCad backups
-hardware/WCS1700_Calibrator-backups/
+WCS1700_Calibrator-backups/
 
 # Ignore gerber files
-hardware/gbr/
+gbr/
 
 # Ignore autosave files
-hardware/#auto_saved_files#
-hardware/_autosave*
+\#auto_saved_files#
+_autosave*
 
 # Ignore KiCad lock files
 *.lck
